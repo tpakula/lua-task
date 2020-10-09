@@ -39,8 +39,16 @@ Please implement a method compare that is not visible to user of ProductAggregat
 4. Click `Import from GitHub`
 5. Once imported to run press the run button at the very top
 
+Please remember to copy the link to the created repl.it from the browser. Your code will be save automatically. 
+
 Implement your solution in the `product_aggregator.lua`.
 
 Uncoment specific sections in the `main.lua` to execute the code.
+
+**Sending the solution**
+There are free options you can go. 
+1. Send us the link to the Repl wth your solution (Repl.it saves the content of the repl and generates a unique url for each of them)
+2. Publish you solution in the github
+3. Plain old mail. Just send the files via e-mail.
 
 Good Luck :-)
