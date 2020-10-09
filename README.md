@@ -40,6 +40,7 @@ Please implement a method compare that is not visible to user of ProductAggregat
 5. Once imported to run press the run button at the very top
 
 Implement your solution in product_aggregator.lua.
+
 Uncoment specific sections in the main.lua to execute the code.
 
 Good Luck :-)
